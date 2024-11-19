@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\jupiter\jupiter\bin\Debug\jupiter.exe.config
+C:\Users\Aluno\Desktop\jupiter\jupiter\bin\Debug\jupiter.exe
+C:\Users\Aluno\Desktop\jupiter\jupiter\bin\Debug\jupiter.pdb
+C:\Users\Aluno\Desktop\jupiter\jupiter\obj\Debug\jupiter.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\jupiter\jupiter\obj\Debug\jupiter.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\jupiter\jupiter\obj\Debug\jupiter.exe
+C:\Users\Aluno\Desktop\jupiter\jupiter\obj\Debug\jupiter.pdb
